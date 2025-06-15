@@ -7,6 +7,8 @@ Microsoft Certified
 
 currently Powershell Enthusiast
 
+trying Docker on a RPi4
+
 Mostly fluent in: Powershell/VB.net/VBS/C#/C++/Arduino/HTML+CSS/X++/PHP
 
 --> Transforming Coffee into Code
